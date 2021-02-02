@@ -1,2 +1,3 @@
-# code-review-task
+# Code review task
+
 This repository was created to conduct code reviews for interviews.
